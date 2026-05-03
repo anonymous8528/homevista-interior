@@ -10,7 +10,9 @@ dotenv.config();
 
 const app = express();
 
-app.use(cors({ origin: "*" }));
+app.use(cors({
+  origin: "homevista-interior.vercel.app"
+}));
 app.use(express.json());
 app.use("/uploads", express.static("uploads"));
 
