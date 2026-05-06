@@ -37,7 +37,7 @@ export default function Home() {
           <h1>Transform Your Home With Modern Interior Design</h1>
           <p>
             HomeVista Interior provides complete home, office, shop and modular
-            kitchen interior solutions in lucknow.
+            kitchen interior solutions in Gorakhpur.
           </p>
 
           <div className="hero-buttons">
@@ -151,7 +151,7 @@ export default function Home() {
         <div className="cards">
           <div className="card price">
             <h3>Basic</h3>
-            <h1>₹499</h1>
+            <h1>₹699</h1>
             <p>Single room design idea</p>
           </div>
 
